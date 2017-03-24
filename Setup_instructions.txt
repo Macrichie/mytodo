@@ -1,0 +1,4 @@
+1. First, run mongodb.bat
+2. Secondly, run server.bat
+3. Thirdly, run localhost.bat 
+respectively to set up app.
